@@ -1,0 +1,7 @@
+name = "InplaceMul"
+uuid = "b04d9681-b3b1-4cdc-8ad6-c5d818f6123e"
+authors = ["Patrick Fournier <p_fournier@hushmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
